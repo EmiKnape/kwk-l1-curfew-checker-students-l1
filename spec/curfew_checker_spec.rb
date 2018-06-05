@@ -43,7 +43,7 @@ describe "#complex_curfew_checker" do
   end
 
   it "should say you can keep having fun" do 
-    expect(complex_curfew_checker(9)).to eq("Keep having fun!")
+   
 
   end
 end
