@@ -17,8 +17,7 @@ def complex_curfew_checker(time)
 if time>=9
 elsif time<=9
 else time>=10
-  puts "Keep having fun!"
-  
+   expect(complex_curfew_checker(9)).to eq("Keep having fun!")
 end
 end
 puts complex_curfew_checker(9)
