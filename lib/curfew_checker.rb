@@ -14,7 +14,8 @@ end
 puts simple_curfew_checker(12)
 
 def complex_curfew_checker(time)
-  
+  if time>=9
+    puts ""
 end
 
 def deluxe_curfew_checker(time)
