@@ -18,7 +18,7 @@ def complex_curfew_checker(time)
     puts "Keep having fun!"
 end
 end
-puts curfew_checker(time)
+puts simple_curfew_checker(time)
 
 def deluxe_curfew_checker(time)
   # code goes here
