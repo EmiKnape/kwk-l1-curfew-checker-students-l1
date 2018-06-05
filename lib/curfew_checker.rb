@@ -8,7 +8,7 @@ puts simple_curfew_checker(11)
 
 def curfew_checker(time)
   if time>=12
-    puts "You're in trouble, better get home quick."
+    puts "You're in trouble get home quick"
 end
 end 
   puts simple_curfew_checker(12)
