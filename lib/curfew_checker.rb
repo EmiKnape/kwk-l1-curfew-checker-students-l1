@@ -15,8 +15,10 @@ puts simple_curfew_checker(12)
 
 def complex_curfew_checker(time)
   if time>=9
-    puts ""
+    puts "Keep having fun!"
 end
+end
+puts curfew_checker(9)
 
 def deluxe_curfew_checker(time)
   # code goes here
